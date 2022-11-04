@@ -1,6 +1,6 @@
 # NxtWave ReactJs Assignment
 
-React App is deployed on github pages. Link : [Deployment Page](http://abhinaypodugu.github.io)
+React App is deployed on Vercel. Link : [Deployment Page](https://react-js-nxt-wave.vercel.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

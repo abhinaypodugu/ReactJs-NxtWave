@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ReactJs-NxtWave/static/css/main.d8fb8f32.css",
-    "main.js": "/ReactJs-NxtWave/static/js/main.a085167a.js",
-    "static/js/845.0a40e140.chunk.js": "/ReactJs-NxtWave/static/js/845.0a40e140.chunk.js",
-    "static/media/image9.png": "/ReactJs-NxtWave/static/media/image9.9a9588a7d6c9ffdfee8b.png",
-    "index.html": "/ReactJs-NxtWave/index.html",
-    "main.d8fb8f32.css.map": "/ReactJs-NxtWave/static/css/main.d8fb8f32.css.map",
-    "main.a085167a.js.map": "/ReactJs-NxtWave/static/js/main.a085167a.js.map",
-    "845.0a40e140.chunk.js.map": "/ReactJs-NxtWave/static/js/845.0a40e140.chunk.js.map"
+    "main.css": "/static/css/main.d8fb8f32.css",
+    "main.js": "/static/js/main.daa9baab.js",
+    "static/js/845.0a40e140.chunk.js": "/static/js/845.0a40e140.chunk.js",
+    "static/media/image9.png": "/static/media/image9.9a9588a7d6c9ffdfee8b.png",
+    "index.html": "/index.html",
+    "main.d8fb8f32.css.map": "/static/css/main.d8fb8f32.css.map",
+    "main.daa9baab.js.map": "/static/js/main.daa9baab.js.map",
+    "845.0a40e140.chunk.js.map": "/static/js/845.0a40e140.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8fb8f32.css",
-    "static/js/main.a085167a.js"
+    "static/js/main.daa9baab.js"
   ]
 }

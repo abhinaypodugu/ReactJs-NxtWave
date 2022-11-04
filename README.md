@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# NxtWave ReactJs Assignment
+
+React App is deployed on github pages. Link : [Deployment Page](http://abhinaypodugu.github.io)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
